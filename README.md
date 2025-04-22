@@ -1,5 +1,8 @@
 IoT Device Penetration Testing Toolkit (SMRT)
 
+Members: Mozammil Khatri, Rudge Licanto, Selim Tahir, Vo Minh Thien, Tully McManus
+
+
 Overview
 
 The IoT Device Penetration Testing Toolkit (SMRT) is a Python-based application designed to help users identify and assess security vulnerabilities in IoT devices on their network. It provides functionalities such as network scanning, device identification, default credential testing, network segmentation analysis, and report generation to enhance the security posture of home or small business networks.
