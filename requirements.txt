@@ -1,0 +1,7 @@
+PyQt6>=6.4.0
+requests>=2.28.0
+pandas>=1.4.0
+python-nmap>=0.7.1
+mac-vendor-lookup>=0.1.11
+paramiko>=2.11.0
+ipaddress>=1.0.23
